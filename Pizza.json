@@ -1,5 +1,4 @@
-{ "results" : [
-  {
+{
     "bathrooms": 1,
     "bedrooms": 2,
     "city": "San Francisco",
@@ -47,5 +46,4 @@
     ]
   }
   ]
- 
 }
