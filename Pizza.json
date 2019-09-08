@@ -5,6 +5,7 @@
         "name": "Nachorizo",
         "price": "23.95",
         "menu_description": "Premium pork seasoned like a traditional Mexican chorizo.",
+        "classifications": {},
         "assets": {
           "menu": [
             {
